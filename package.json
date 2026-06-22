@@ -1,6 +1,6 @@
 {
-  "name": "@nois/cz-conventional-changelog",
-  "version": "0.0.2",
+  "name": "@newoceanis/cz-conventional-changelog",
+  "version": "0.0.3",
   "description": "Commitizen adapter following the conventional-changelog format and also asking for issue.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "dependencies": {
     "boxen": "^5.0.0",
     "chalk": "^2.4.1",
-    "commitizen": "^4.2.4",
+    "commitizen": "4.2.4",
     "inquirer": "^6.5.2",
     "lodash.map": "^4.5.1",
     "longest": "^2.0.1",
